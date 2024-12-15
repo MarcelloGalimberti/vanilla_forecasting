@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+plotly-express
+openpyxl
+ipython
+neuralprophet[live]
+prophet
+statsmodels
